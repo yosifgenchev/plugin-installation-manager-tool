@@ -6,6 +6,7 @@
         <groupId>org.jenkins-ci</groupId>
         <artifactId>jenkins</artifactId>
         <version>1.51</version>
+        <relativePath />
     </parent>
 
     <properties>
